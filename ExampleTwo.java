@@ -10,6 +10,7 @@ public class ExampleTwo
 		double valueOfPie;
 		boolean skyIsBlue;
 		char bloodGrop;
+		String place="Hubli";
 		numberOfPetelsInflower = 5;
 		System.out.println(numberOfPetelsInflower);
 		typesOfFruitsInTheWorld = 4000;
@@ -26,6 +27,7 @@ public class ExampleTwo
 		System.out.println(skyIsBlue);
 		bloodGrop = 'o';
 		System.out.println(bloodGrop);
+		System.out.println(place);
 		
 	}
 }
