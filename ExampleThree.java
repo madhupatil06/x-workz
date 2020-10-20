@@ -10,6 +10,7 @@ public class ExampleThree
 		double valueOfPie;
 		boolean sunIsStar;
 		char grade;
+		String address="Patil";
 		numberOfDaysInWeek = 7;
 		System.out.println(numberOfDaysInWeek);
 		
@@ -31,6 +32,7 @@ public class ExampleThree
 		System.out.println(sunIsStar);
 		grade = 'c';
 		System.out.println(grade);
+		System.out.println(address);
 		
 	}
 }
