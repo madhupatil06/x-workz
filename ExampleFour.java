@@ -10,6 +10,8 @@ public class ExampleFour
 		double massOfElectron;
 		boolean milkIsBlack;
 		char gender;
+		String language="Java";
+		
 		numberOfAlphabets = 26;
 		System.out.println(numberOfAlphabets);
 		
@@ -33,6 +35,8 @@ public class ExampleFour
 		
 		gender = 'f';
 		System.out.println(gender);
+		
+		System.out.println(language);
 		
 	}
 }
