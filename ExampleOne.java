@@ -10,6 +10,7 @@ public class ExampleOne
 		double chargeOfElectron;
 		boolean earthIsFlat;
 		char grade;
+		String name = "Madhu";
 		fingers = 10;
 		System.out.println(fingers);
 		daysInYear = 365;
@@ -26,6 +27,7 @@ public class ExampleOne
 		System.out.println(earthIsFlat);
 		grade = 'A';
 		System.out.println(grade);
+		System.out.println(name);
 		
-	}
+		}
 }
