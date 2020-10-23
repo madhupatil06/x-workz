@@ -7,7 +7,10 @@ public class Percentage
 	}
 	public static void arrayOfPercentage()
 	{
-		float[] percentage = {85.33f,89.34f,71.00f};
+		float sslcPercentage = 85.33f;
+		float pucPercentage = 89.34f;
+		float degreePercentage = 71.00f;
+		float[] percentage = {sslcPercentage,pucPercentage,degreePercentage};
 		int sizeOfArray = percentage.length;
 		
 		System.out.println("Number of Elements "+sizeOfArray);
