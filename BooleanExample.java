@@ -7,8 +7,9 @@ public class BooleanExample
 	}
 	public static void arrayOfBoolean()
 	{
-		
-		boolean[] booleanArray = {true,false};
+		boolean earthIsFlat = false;
+		boolean skyIsBlue = true;
+		boolean[] booleanArray = {earthIsFlat,skyIsBlue};
 		
 		int sizeOfArray = booleanArray.length;
 		
