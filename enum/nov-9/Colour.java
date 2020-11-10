@@ -1,0 +1,6 @@
+public enum Colour
+{
+	
+BLACK,WHITE,YELLOW,RWD,PINK,BLUE,GREEN,ORANGE
+	
+}
