@@ -1,0 +1,49 @@
+1.Compile time is the time at which the source code converted into byte code.
+
+  Run time is the time at which executable code is started running.
+  
+2.
+
+
+3. Convertor.java
+
+
+4.Method is set of code which runs when it is called.
+  syntax: public static return-type method-name(){
+            //body of method
+		}
+		
+  Parameter is a varible inside the method. Parameters are specified after the method name inside the paretheses.
+  
+  Argument is an actual value that is passed to a method when the method is called.
+  
+  Return type defines and constrains the data type of the value returned from a method.
+  
+  MethodTesting.java
+  
+5.Encapsulation is a process of wrapping code and data together into single unit. We can achive this by using access specifiers.
+  
+  example
+  RechargeTester.java
+  Recharge.java
+  
+  
+6.Array is collection of elements which are of same data type.
+  
+  example
+  ArrayTester.java
+  
+7. CountryName.java
+
+
+8.Method overloading is a feature that two or more methods can have same syntax but differ in parameters(number of parameters or type of parameters or change in sequence).
+  
+  examples
+  HumanTester.java
+  Human.java
+  
+  DressTester.java
+  Dress.java
+  
+
+ 
